@@ -12,7 +12,7 @@ A REST API about states in Malaysia.
 
 ## List of endpoints
 
-The current url is https://mazfreelance.github.io/malaysia-jajahan-api
+The current base url is https://mazfreelance.github.io/malaysia-jajahan-api
 | Type                                              | End Point                                               | Link                                                                                                               |
 | ------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | country                                           | /v1/countries.json                                      | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/countries.json)                                      |
@@ -25,8 +25,9 @@ The current url is https://mazfreelance.github.io/malaysia-jajahan-api
 | education - field of study (narrow field)         | /v1/educations/field-of-study/narrow-field.json         | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/educations/field-of-study/narrow-field.json)         |
 | education - field of study (narrow field details) | /v1/educations/field-of-study/narrow-field-details.json | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/educations/field-of-study/narrow-field-details.json) |
 | bank                                              | /v1/bank.json                                           | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/bank.json)                                           |
+| user title                                        | /v1/user-title.json                                     | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/user-title.json)                                     |
 
-## Usage
+## Usage Example
 
 - request
 
