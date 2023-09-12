@@ -4,6 +4,11 @@ A REST API about states in Malaysia.
 
 **This API inspired from [lomotech/jajahan](https://github.com/lomotech/jajahan)**. It is **intentional** for files to be stored this way (json format) as it avoids using any database engine and to be read-only web API.
 
+## Contribution
+
+- If you have noticed some mistakes or bugs, or maybe you have any suggestions please create an issue.
+- Have you found something new information or bugs? Make a PR and add it to the list!
+
 ## Resource
 
 - Wikipedia
@@ -77,10 +82,7 @@ curl https://mazfreelance.github.io/malaysia-jajahan-api/v1/countries.json
 ```
 
 ## Reference
-
 - [lomotech/jajahan](https://github.com/lomotech/jajahan)
 
-## Contribution
-
-- If you have noticed some mistakes or bugs, or maybe you have any suggestions please create an issue.
-- Have you found something new information or bugs? Make a PR and add it to the list!
+## Related
+- [Malaysia API](https://jianliew.me/malaysia-api/)
