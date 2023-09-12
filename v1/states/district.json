@@ -1,0 +1,761 @@
+[
+    {
+        "//comment": "code - it is not official"
+    },
+    {
+        "id": "900",
+        "state_id": "9",
+        "name": "PERLIS",
+        "code": "PER"
+    },
+    {
+        "id": "201",
+        "state_id": "2",
+        "name": "KOTA SETAR",
+        "code": "KSE"
+    },
+    {
+        "id": "202",
+        "state_id": "2",
+        "name": "KUBANG PASU",
+        "code": "KPA"
+    },
+    {
+        "id": "203",
+        "state_id": "2",
+        "name": "PADANG TERAP",
+        "code": "PTE"
+    },
+    {
+        "id": "204",
+        "state_id": "2",
+        "name": "LANGKAWI",
+        "code": "LAN"
+    },
+    {
+        "id": "205",
+        "state_id": "2",
+        "name": "KUALA MUDA",
+        "code": "KMU"
+    },
+    {
+        "id": "206",
+        "state_id": "2",
+        "name": "YAN",
+        "code": "YAN"
+    },
+    {
+        "id": "207",
+        "state_id": "2",
+        "name": "SIK",
+        "code": "SIK"
+    },
+    {
+        "id": "208",
+        "state_id": "2",
+        "name": "BALING",
+        "code": "BAL"
+    },
+    {
+        "id": "209",
+        "state_id": "2",
+        "name": "KULIM",
+        "code": "KUL"
+    },
+    {
+        "id": "210",
+        "state_id": "2",
+        "name": "BANDAR BAHARU",
+        "code": "BBA"
+    },
+    {
+        "id": "211",
+        "state_id": "2",
+        "name": "PENDANG",
+        "code": "PEN"
+    },
+    {
+        "id": "212",
+        "state_id": "2",
+        "name": "POKOK SENA",
+        "code": "PSE"
+    },
+    {
+        "id": "301",
+        "state_id": "3",
+        "name": "BACHOK",
+        "code": "BAC"
+    },
+    {
+        "id": "302",
+        "state_id": "3",
+        "name": "KOTA BHARU",
+        "code": "KBH"
+    },
+    {
+        "id": "303",
+        "state_id": "3",
+        "name": "MACHANG",
+        "code": "MAC"
+    },
+    {
+        "id": "304",
+        "state_id": "3",
+        "name": "PASIR MAS",
+        "code": "PMA"
+    },
+    {
+        "id": "305",
+        "state_id": "3",
+        "name": "PASIR PUTEH",
+        "code": "PPU"
+    },
+    {
+        "id": "306",
+        "state_id": "3",
+        "name": "TANAH MERAH",
+        "code": "TME"
+    },
+    {
+        "id": "307",
+        "state_id": "3",
+        "name": "TUMPAT",
+        "code": "TUM"
+    },
+    {
+        "id": "308",
+        "state_id": "3",
+        "name": "GUA MUSANG",
+        "code": "GMU"
+    },
+    {
+        "id": "310",
+        "state_id": "3",
+        "name": "KUALA KRAI",
+        "code": "KKR"
+    },
+    {
+        "id": "311",
+        "state_id": "3",
+        "name": "JELI",
+        "code": "JEL"
+    },
+    {
+        "id": "312",
+        "state_id": "3",
+        "name": "KECIL LOJING",
+        "code": "KLO"
+    },
+    {
+        "id": "1101",
+        "state_id": "11",
+        "name": "BESUT",
+        "code": "BES"
+    },
+    {
+        "id": "1102",
+        "state_id": "11",
+        "name": "DUNGUN",
+        "code": "DUN"
+    },
+    {
+        "id": "1103",
+        "state_id": "11",
+        "name": "KEMAMAN",
+        "code": "KEM"
+    },
+    {
+        "id": "1104",
+        "state_id": "11",
+        "name": "KUALA TERENGGANU",
+        "code": "KTE"
+    },
+    {
+        "id": "1105",
+        "state_id": "11",
+        "name": "HULU TERENGGANU",
+        "code": "HTE"
+    },
+    {
+        "id": "1106",
+        "state_id": "11",
+        "name": "MARANG",
+        "code": "MAR"
+    },
+    {
+        "id": "1107",
+        "state_id": "11",
+        "name": "SETIU",
+        "code": "SET"
+    },
+    {
+        "id": "701",
+        "state_id": "7",
+        "name": "SEBERANG PERAI TENGAH",
+        "code": "SPT"
+    },
+    {
+        "id": "702",
+        "state_id": "7",
+        "name": "SEBERANG PERAI UTARA",
+        "code": "SPU"
+    },
+    {
+        "id": "703",
+        "state_id": "7",
+        "name": "SEBERANG PERAI SELATAN",
+        "code": "SPS"
+    },
+    {
+        "id": "704",
+        "state_id": "7",
+        "name": "TIMOR LAUT",
+        "code": "TLA"
+    },
+    {
+        "id": "705",
+        "state_id": "7",
+        "name": "BARAT DAYA",
+        "code": "BDA"
+    },
+    {
+        "id": "801",
+        "state_id": "8",
+        "name": "BATANG PADANG",
+        "code": "BPA"
+    },
+    {
+        "id": "802",
+        "state_id": "8",
+        "name": "MANJUNG",
+        "code": "MAN"
+    },
+    {
+        "id": "803",
+        "state_id": "8",
+        "name": "KINTA",
+        "code": "KIN"
+    },
+    {
+        "id": "804",
+        "state_id": "8",
+        "name": "KERIAN",
+        "code": "KER"
+    },
+    {
+        "id": "805",
+        "state_id": "8",
+        "name": "KUALA KANGSAR",
+        "code": "KKA"
+    },
+    {
+        "id": "806",
+        "state_id": "8",
+        "name": "LARUT & MATANG",
+        "code": "LDM"
+    },
+    {
+        "id": "807",
+        "state_id": "8",
+        "name": "HILIR PERAK",
+        "code": "HPE"
+    },
+    {
+        "id": "808",
+        "state_id": "8",
+        "name": "HULU PERAK",
+        "code": "HPR"
+    },
+    {
+        "id": "809",
+        "state_id": "8",
+        "name": "SELAMA",
+        "code": "SEL"
+    },
+    {
+        "id": "810",
+        "state_id": "8",
+        "name": "PERAK TENGAH",
+        "code": "PTE"
+    },
+    {
+        "id": "811",
+        "state_id": "8",
+        "name": "KAMPAR",
+        "code": "KAM"
+    },
+    {
+        "id": "601",
+        "state_id": "6",
+        "name": "BENTONG",
+        "code": "BEN"
+    },
+    {
+        "id": "602",
+        "state_id": "6",
+        "name": "CAMERON HIGHLANDS",
+        "code": "CHI"
+    },
+    {
+        "id": "603",
+        "state_id": "6",
+        "name": "JERANTUT",
+        "code": "JER"
+    },
+    {
+        "id": "604",
+        "state_id": "6",
+        "name": "KUANTAN",
+        "code": "KUA"
+    },
+    {
+        "id": "605",
+        "state_id": "6",
+        "name": "LIPIS",
+        "code": "LIP"
+    },
+    {
+        "id": "606",
+        "state_id": "6",
+        "name": "PEKAN",
+        "code": "PEK"
+    },
+    {
+        "id": "607",
+        "state_id": "6",
+        "name": "RAUB",
+        "code": "RAU"
+    },
+    {
+        "id": "608",
+        "state_id": "6",
+        "name": "TEMERLOH",
+        "code": "TER"
+    },
+    {
+        "id": "609",
+        "state_id": "6",
+        "name": "ROMPIN",
+        "code": "ROM"
+    },
+    {
+        "id": "610",
+        "state_id": "6",
+        "name": "MARAN",
+        "code": "MAR"
+    },
+    {
+        "id": "611",
+        "state_id": "6",
+        "name": "BERA",
+        "code": "BER"
+    },
+    {
+        "id": "1001",
+        "state_id": "10",
+        "name": "KLANG",
+        "code": "KLG"
+    },
+    {
+        "id": "1002",
+        "state_id": "10",
+        "name": "KUALA LANGAT",
+        "code": "KLN"
+    },
+    {
+        "id": "1004",
+        "state_id": "10",
+        "name": "KUALA SELANGOR",
+        "code": "KSE"
+    },
+    {
+        "id": "1005",
+        "state_id": "10",
+        "name": "SABAK BERNAM",
+        "code": "SBE"
+    },
+    {
+        "id": "1006",
+        "state_id": "10",
+        "name": "ULU LANGAT",
+        "code": "ULA"
+    },
+    {
+        "id": "1007",
+        "state_id": "10",
+        "name": "ULU SELANGOR",
+        "code": "USE"
+    },
+    {
+        "id": "1008",
+        "state_id": "10",
+        "name": "PETALING",
+        "code": "PET"
+    },
+    {
+        "id": "1009",
+        "state_id": "10",
+        "name": "GOMBAK",
+        "code": "GOM"
+    },
+    {
+        "id": "1010",
+        "state_id": "10",
+        "name": "SEPANG",
+        "code": "SEP"
+    },
+    {
+        "id": "1400",
+        "state_id": "14",
+        "name": "W. P. KUALA LUMPUR",
+        "code": "WPK"
+    },
+    {
+        "id": "1601",
+        "state_id": "16",
+        "name": "W. P. PUTRAJAYA",
+        "code": "WPP"
+    },
+    {
+        "id": "501",
+        "state_id": "5",
+        "name": "JELEBU",
+        "code": "JEL"
+    },
+    {
+        "id": "502",
+        "state_id": "5",
+        "name": "KUALA PILAH",
+        "code": "KPI"
+    },
+    {
+        "id": "503",
+        "state_id": "5",
+        "name": "PORT DICKSON",
+        "code": "PDI"
+    },
+    {
+        "id": "504",
+        "state_id": "5",
+        "name": "REMBAU",
+        "code": "REM"
+    },
+    {
+        "id": "505",
+        "state_id": "5",
+        "name": "SEREMBAN",
+        "code": "SER"
+    },
+    {
+        "id": "506",
+        "state_id": "5",
+        "name": "TAMPIN",
+        "code": "TAM"
+    },
+    {
+        "id": "507",
+        "state_id": "5",
+        "name": "JEMPOL",
+        "code": "JEM"
+    },
+    {
+        "id": "401",
+        "state_id": "4",
+        "name": "MELAKA TENGAH",
+        "code": "MTE"
+    },
+    {
+        "id": "402",
+        "state_id": "4",
+        "name": "JASIN",
+        "code": "JAS"
+    },
+    {
+        "id": "403",
+        "state_id": "4",
+        "name": "ALOR GAJAH",
+        "code": "AGA"
+    },
+    {
+        "id": "101",
+        "state_id": "1",
+        "name": "BATU PAHAT",
+        "code": "BPA"
+    },
+    {
+        "id": "102",
+        "state_id": "1",
+        "name": "JOHOR BAHRU",
+        "code": "JBA"
+    },
+    {
+        "id": "103",
+        "state_id": "1",
+        "name": "KLUANG",
+        "code": "KLU"
+    },
+    {
+        "id": "104",
+        "state_id": "1",
+        "name": "KOTA TINGGI",
+        "code": "KTI"
+    },
+    {
+        "id": "105",
+        "state_id": "1",
+        "name": "MERSING",
+        "code": "MER"
+    },
+    {
+        "id": "106",
+        "state_id": "1",
+        "name": "MUAR",
+        "code": "MUA"
+    },
+    {
+        "id": "107",
+        "state_id": "1",
+        "name": "PONTIAN",
+        "code": "PON"
+    },
+    {
+        "id": "108",
+        "state_id": "1",
+        "name": "SEGAMAT",
+        "code": "SEG"
+    },
+    {
+        "id": "109",
+        "state_id": "1",
+        "name": "KULAIJAYA",
+        "code": "KUL"
+    },
+    {
+        "id": "110",
+        "state_id": "1",
+        "name": "LEDANG",
+        "code": "LED"
+    },
+    {
+        "id": "1500",
+        "state_id": "15",
+        "name": "W. P. LABUAN",
+        "code": "WPL"
+    },
+    {
+        "id": "1201",
+        "state_id": "12",
+        "name": "KOTA KINABALU",
+        "code": "KKI"
+    },
+    {
+        "id": "1202",
+        "state_id": "12",
+        "name": "PAPAR",
+        "code": "PAP"
+    },
+    {
+        "id": "1203",
+        "state_id": "12",
+        "name": "KOTA BELUD",
+        "code": "KBE"
+    },
+    {
+        "id": "1204",
+        "state_id": "12",
+        "name": "TUARAN",
+        "code": "TUA"
+    },
+    {
+        "id": "1205",
+        "state_id": "12",
+        "name": "KUDAT",
+        "code": "KUD"
+    },
+    {
+        "id": "1206",
+        "state_id": "12",
+        "name": "RANAU",
+        "code": "RAN"
+    },
+    {
+        "id": "1207",
+        "state_id": "12",
+        "name": "SANDAKAN",
+        "code": "SAN"
+    },
+    {
+        "id": "1208",
+        "state_id": "12",
+        "name": "LABUK & SUGUT",
+        "code": "LDS"
+    },
+    {
+        "id": "1209",
+        "state_id": "12",
+        "name": "KINABATANGAN",
+        "code": "KIN"
+    },
+    {
+        "id": "1210",
+        "state_id": "12",
+        "name": "TAWAU",
+        "code": "TAW"
+    },
+    {
+        "id": "1211",
+        "state_id": "12",
+        "name": "LAHAD DATU",
+        "code": "LDA"
+    },
+    {
+        "id": "1212",
+        "state_id": "12",
+        "name": "SEMPORNA",
+        "code": "SEM"
+    },
+    {
+        "id": "1213",
+        "state_id": "12",
+        "name": "KENINGAU",
+        "code": "KEN"
+    },
+    {
+        "id": "1214",
+        "state_id": "12",
+        "name": "TAMBUNAN",
+        "code": "TAM"
+    },
+    {
+        "id": "1215",
+        "state_id": "12",
+        "name": "PENSIANGAN",
+        "code": "PEN"
+    },
+    {
+        "id": "1216",
+        "state_id": "12",
+        "name": "TENOM",
+        "code": "TEN"
+    },
+    {
+        "id": "1217",
+        "state_id": "12",
+        "name": "BEAUFORT",
+        "code": "BEA"
+    },
+    {
+        "id": "1218",
+        "state_id": "12",
+        "name": "KUALA PENYU",
+        "code": "KPE"
+    },
+    {
+        "id": "1219",
+        "state_id": "12",
+        "name": "SIPITANG",
+        "code": "SIP"
+    },
+    {
+        "id": "1221",
+        "state_id": "12",
+        "name": "PENAMPANG",
+        "code": "PEN"
+    },
+    {
+        "id": "1222",
+        "state_id": "12",
+        "name": "KOTA MARUDU",
+        "code": "KMA"
+    },
+    {
+        "id": "1223",
+        "state_id": "12",
+        "name": "PITAS",
+        "code": "PTS"
+    },
+    {
+        "id": "1224",
+        "state_id": "12",
+        "name": "KUNAK",
+        "code": "KUN"
+    },
+    {
+        "id": "1225",
+        "state_id": "12",
+        "name": "TONGOD",
+        "code": "TON"
+    },
+    {
+        "id": "1226",
+        "state_id": "12",
+        "name": "PUTATAN",
+        "code": "PUT"
+    },
+    {
+        "id": "1301",
+        "state_id": "13",
+        "name": "KUCHING",
+        "code": "KUC"
+    },
+    {
+        "id": "1302",
+        "state_id": "13",
+        "name": "SRI AMAN",
+        "code": "SAM"
+    },
+    {
+        "id": "1303",
+        "state_id": "13",
+        "name": "SIBU",
+        "code": "SIB"
+    },
+    {
+        "id": "1304",
+        "state_id": "13",
+        "name": "MIRI",
+        "code": "MIR"
+    },
+    {
+        "id": "1305",
+        "state_id": "13",
+        "name": "LIMBANG",
+        "code": "LIM"
+    },
+    {
+        "id": "1306",
+        "state_id": "13",
+        "name": "SARIKEI",
+        "code": "SAR"
+    },
+    {
+        "id": "1307",
+        "state_id": "13",
+        "name": "KAPIT",
+        "code": "KAP"
+    },
+    {
+        "id": "1308",
+        "state_id": "13",
+        "name": "SAMARAHAN",
+        "code": "SAM"
+    },
+    {
+        "id": "1309",
+        "state_id": "13",
+        "name": "BINTULU",
+        "code": "BIN"
+    },
+    {
+        "id": "1310",
+        "state_id": "13",
+        "name": "MUKAH",
+        "code": "MUK"
+    },
+    {
+        "id": "1311",
+        "state_id": "13",
+        "name": "BETONG",
+        "code": "BET"
+    }
+]

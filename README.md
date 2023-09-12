@@ -6,6 +6,7 @@ A REST API about states in Malaysia.
 
 ## Resource
 
+- Wikipedia
 - [sddsa](http://sddsa.mampu.gov.my/)
 - [Statistics My](http://statistics.gov.my/)
 - [Sabah My](http://www.sabah.gov.my/)
@@ -17,6 +18,8 @@ The current base url is https://mazfreelance.github.io/malaysia-jajahan-api
 | ------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | country                                           | /v1/countries.json                                      | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/countries.json)                                      |
 | state                                             | /v1/states.json                                         | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/states.json)                                         |
+| state (district)                                  | /v1/states/district.json                                | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/states/district.json)                                |
+| state (mukim)                                     | /v1/states/mukim.json                                   | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/states/mukim.json)                                   |
 | dun                                               | /v1/countries.json                                      | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/dun.json)                                            |
 | parliament                                        | /v1/countries.json                                      | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/parliament.json)                                     |
 | education - level                                 | /v1/educations/level.json                               | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/educations/level.json)                               |
@@ -26,6 +29,7 @@ The current base url is https://mazfreelance.github.io/malaysia-jajahan-api
 | education - field of study (narrow field details) | /v1/educations/field-of-study/narrow-field-details.json | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/educations/field-of-study/narrow-field-details.json) |
 | bank                                              | /v1/bank.json                                           | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/bank.json)                                           |
 | user title                                        | /v1/user-title.json                                     | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/user-title.json)                                     |
+| religion                                          | /v1/religion.json                                       | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/religion.json)                                       |
 
 ## Usage Example
 

@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Islam"
+    },
+    {
+        "id": 2,
+        "name": "Kristian"
+    },
+    {
+        "id": 3,
+        "name": "Buddha"
+    },
+    {
+        "id": 4,
+        "name": "Hindu"
+    },
+    {
+        "id": 5,
+        "name": "Sikhism"
+    },
+    {
+        "id": 6,
+        "name": "Tao"
+    },
+    {
+        "id": 7,
+        "name": "Confucianism"
+    },
+    {
+        "id": 8,
+        "name": "Bahai"
+    },
+    {
+        "id": 9,
+        "name": "No Religion/Aitismism"
+    },
+    {
+        "id": 98,
+        "name": "Other Religions"
+    },
+    {
+        "id": 99,
+        "name": "No Information"
+    }
+]
