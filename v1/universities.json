@@ -1,167 +1,167 @@
 [
     {
         "name": "Universiti Malaya (UM)",
-        "date_established": "1962-01-01",
-        "date_upgraded": "-",
+        "year_established": 1962,
+        "year_upgraded": "-",
         "state_id": "14",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Sains Malaysia (USM)",
-        "date_established": 1969,
-        "date_upgraded": "-",
+        "year_established": 1969,
+        "year_upgraded": "-",
         "state_id": "7",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Kebangsaan Malaysia (UKM)",
-        "date_established": "1970-05-18",
-        "date_upgraded": "-",
+        "year_established": 1970,
+        "year_upgraded": "-",
         "state_id": "10",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Putra Malaysia (UPM)",
-        "date_established": "1971-10-04",
-        "date_upgraded": "-",
+        "year_established": 1971,
+        "year_upgraded": "-",
         "state_id": "10",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Teknologi Malaysia (UTM)",
-        "date_established": "1975-04-01",
-        "date_upgraded": "-",
+        "year_established": 1975,
+        "year_upgraded": "-",
         "state_id": "1",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Teknologi MARA (UiTM)",
-        "date_established": "1999-08-26",
-        "date_upgraded": "-",
+        "year_established": 1999,
+        "year_upgraded": "-",
         "state_id": "10",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Islam Antarabangsa Malaysia (UIAM)",
-        "date_established": "1983-05-10",
-        "date_upgraded": "-",
+        "year_established": 1983,
+        "year_upgraded": "-",
         "state_id": "10",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Utara Malaysia (UUM)",
-        "date_established": "1984-02-16",
-        "date_upgraded": "-",
+        "year_established": 1984,
+        "year_upgraded": "-",
         "state_id": "2",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Malaysia Sarawak (UNIMAS)",
-        "date_established": "1992-12-24",
-        "date_upgraded": "-",
+        "year_established": 1992,
+        "year_upgraded": "-",
         "state_id": "13",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Malaysia Sabah (UMS)",
-        "date_established": "1994-11-24",
-        "date_upgraded": "-",
+        "year_established": 1994,
+        "year_upgraded": "-",
         "state_id": "12",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Pendidikan Sultan Idris (UPSI)",
-        "date_established": "1997-02-24",
-        "date_upgraded": "-",
+        "year_established": 1997,
+        "year_upgraded": "-",
         "state_id": "8",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Sains Islam Malaysia (USIM)",
-        "date_established": "1998-03-13",
-        "date_upgraded": "-",
+        "year_established": 1998,
+        "year_upgraded": "-",
         "state_id": "5",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Malaysia Terengganu (UMT)",
-        "date_established": "1999-07-15",
-        "date_upgraded": "-",
+        "year_established": 1999,
+        "year_upgraded": "-",
         "state_id": "11",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Tun Hussein Onn Malaysia (UTHM)",
-        "date_established": "2000-09-30",
-        "date_upgraded": "-",
+        "year_established": 2000,
+        "year_upgraded": "-",
         "state_id": "1",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Teknikal Malaysia Melaka (UTeM)",
-        "date_established": "2000-12-01",
-        "date_upgraded": "-",
+        "year_established": 2000,
+        "year_upgraded": "-",
         "state_id": "4",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Malaysia Pahang (UMP)",
-        "date_established": "2002-02-16",
-        "date_upgraded": "-",
+        "year_established": 2002,
+        "year_upgraded": "-",
         "state_id": "6",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Malaysia Perlis (UniMAP)",
-        "date_established": "2002-05-02",
-        "date_upgraded": "-",
+        "year_established": 2002,
+        "year_upgraded": "-",
         "country_of_origin": "Malaysia",
         "state_id": "9"
     },
     {
         "name": "Sultan Zainal Abidin (UniSZA)",
-        "date_established": "2006-01-01",
-        "date_upgraded": "-",
+        "year_established": 2006,
+        "year_upgraded": "-",
         "state_id": "11",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Malaysia Kelantan (UMK)",
-        "date_established": "2006-06-14",
-        "date_upgraded": "-",
+        "year_established": 2006,
+        "year_upgraded": "-",
         "state_id": "3",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Universiti Pertahanan Nasional Malaysia, (UPNM)",
-        "date_established": "2006-11-10",
-        "date_upgraded": "-",
+        "year_established": 2006,
+        "year_upgraded": "-",
         "state_id": "14",
         "country_of_origin": "Malaysia",
         "type": "public"
     },
     {
         "name": "Multimedia University (MMU), Cyberjaya",
-        "date_established": 1997,
-        "date_upgraded": "-",
+        "year_established": 1997,
+        "year_upgraded": "-",
         "state_id": [
             1,
             4,
@@ -172,8 +172,8 @@
     },
     {
         "name": "Universiti Tenaga Nasional (UNITEN)",
-        "date_established": 1999,
-        "date_upgraded": "-",
+        "year_established": 1999,
+        "year_upgraded": "-",
         "state_id": [
             6,
             16
@@ -183,64 +183,64 @@
     },
     {
         "name": "Universiti Tun Abdul Razak (UniRAZAK)",
-        "date_established": 1999,
-        "date_upgraded": "-",
+        "year_established": 1999,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Universiti Teknologi Petronas (UTP)",
-        "date_established": 1999,
-        "date_upgraded": "-",
+        "year_established": 1999,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "International Medical University (IMU)",
-        "date_established": 1999,
-        "date_upgraded": "-",
+        "year_established": 1999,
+        "year_upgraded": "-",
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Universiti Selangor (UNISEL)",
-        "date_established": 2000,
-        "date_upgraded": "-",
+        "year_established": 2000,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Open University Malaysia (OUM)",
-        "date_established": 2000,
-        "date_upgraded": "-",
+        "year_established": 2000,
+        "year_upgraded": "-",
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Malaysia University of Science & Technology (MUST)",
-        "date_established": 2000,
-        "date_upgraded": "-",
+        "year_established": 2000,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "AIMST University",
-        "date_established": 2001,
-        "date_upgraded": "-",
+        "year_established": 2001,
+        "year_upgraded": "-",
         "state_id": 2,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Universiti Tunku Abdul Rahman (UTAR)",
-        "date_established": 2002,
-        "date_upgraded": "-",
+        "year_established": 2002,
+        "year_upgraded": "-",
         "state_id": [
             8,
             10
@@ -250,48 +250,48 @@
     },
     {
         "name": "Universiti Kuala Lumpur (UniKL)",
-        "date_established": 2001,
-        "date_upgraded": "-",
+        "year_established": 2001,
+        "year_upgraded": "-",
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Wawasan Open University",
-        "date_established": 2006,
-        "date_upgraded": "-",
+        "year_established": 2006,
+        "year_upgraded": "-",
         "state_id": 7,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Albukhary International University",
-        "date_established": 2006,
-        "date_upgraded": "-",
+        "year_established": 2006,
+        "year_upgraded": "-",
         "state_id": 2,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Al-Madinah International University (MEDIU)",
-        "date_established": 2006,
-        "date_upgraded": "-",
+        "year_established": 2006,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "International Centre for Education in Islamic Finance (INCEIF)",
-        "date_established": 2006,
-        "date_upgraded": "-",
+        "year_established": 2006,
+        "year_upgraded": "-",
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Limkokwing University of Creative Technology",
-        "date_established": 2003,
-        "date_upgraded": 2007,
+        "year_established": 2003,
+        "year_upgraded": 2007,
         "state_id": [
             4,
             16
@@ -301,24 +301,24 @@
     },
     {
         "name": "Management and Science University (MSU)",
-        "date_established": 2001,
-        "date_upgraded": 2007,
+        "year_established": 2001,
+        "year_upgraded": 2007,
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Asia e University (AeU)",
-        "date_established": 2007,
-        "date_upgraded": "-",
+        "year_established": 2007,
+        "year_upgraded": "-",
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "UCSI University",
-        "date_established": 2003,
-        "date_upgraded": 2008,
+        "year_established": 2003,
+        "year_upgraded": 2008,
         "state_id": [
             11,
             13,
@@ -329,128 +329,128 @@
     },
     {
         "name": "Quest International University",
-        "date_established": 2009,
-        "date_upgraded": "-",
+        "year_established": 2009,
+        "year_upgraded": "-",
         "state_id": 8,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "INTI International University (IIU)",
-        "date_established": 2006,
-        "date_upgraded": 2010,
+        "year_established": 2006,
+        "year_upgraded": 2010,
         "state_id": 5,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Taylor’s University",
-        "date_established": 2006,
-        "date_upgraded": 2010,
+        "year_established": 2006,
+        "year_upgraded": 2010,
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Sunway University",
-        "date_established": 2004,
-        "date_upgraded": 2011,
+        "year_established": 2004,
+        "year_upgraded": 2011,
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Manipal International University",
-        "date_established": 2010,
-        "date_upgraded": "-",
+        "year_established": 2010,
+        "year_upgraded": "-",
         "state_id": 5,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Perdana University",
-        "date_established": 2011,
-        "date_upgraded": "-",
+        "year_established": 2011,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "HELP University",
-        "date_established": 2004,
-        "date_upgraded": 2011,
+        "year_established": 2004,
+        "year_upgraded": 2011,
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "UNITAR International University",
-        "date_established": 2011,
-        "date_upgraded": "-",
+        "year_established": 2011,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Raffles University Iskandar (RUI)",
-        "date_established": 2011,
-        "date_upgraded": "-",
+        "year_established": 2011,
+        "year_upgraded": "-",
         "state_id": 1,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Malaysia Institute of Supply Chain Innovation (MISI)",
-        "date_established": 2011,
-        "date_upgraded": "-",
+        "year_established": 2011,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Nilai University",
-        "date_established": 2007,
-        "date_upgraded": 2012,
+        "year_established": 2007,
+        "year_upgraded": 2012,
         "state_id": 5,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "SEGi University",
-        "date_established": 2008,
-        "date_upgraded": 2012,
+        "year_established": 2008,
+        "year_upgraded": 2012,
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Asia Pacific University of Technology and Innovation (APU)",
-        "date_established": 2004,
-        "date_upgraded": 2012,
+        "year_established": 2004,
+        "year_upgraded": 2012,
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Binary University of Management and Entrepreneurship",
-        "date_established": 2004,
-        "date_upgraded": 2012,
+        "year_established": 2004,
+        "year_upgraded": 2012,
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Infrastructure University Kuala Lumpur (IUKL)",
-        "date_established": 2003,
-        "date_upgraded": 2012,
+        "year_established": 2003,
+        "year_upgraded": 2012,
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Asia Metropolitan University",
-        "date_established": 2008,
-        "date_upgraded": 2012,
+        "year_established": 2008,
+        "year_upgraded": 2012,
         "state_id": [
             1,
             10,
@@ -461,176 +461,176 @@
     },
     {
         "name": "Putra Business School",
-        "date_established": 2012,
-        "date_upgraded": "-",
+        "year_established": 2012,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Manipal GlobalNxt University",
-        "date_established": 2012,
-        "date_upgraded": "-",
+        "year_established": 2012,
+        "year_upgraded": "-",
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "MAHSA University",
-        "date_established": 2009,
-        "date_upgraded": 2013,
+        "year_established": 2009,
+        "year_upgraded": 2013,
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "International University of Malaya-Wales",
-        "date_established": 2013,
-        "date_upgraded": "-",
+        "year_established": 2013,
+        "year_upgraded": "-",
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "University Malaysia of Computer Science and Engineering",
-        "date_established": 2013,
-        "date_upgraded": "-",
+        "year_established": 2013,
+        "year_upgraded": "-",
         "state_id": 16,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Universiti Islam Malaysia, Cyberjaya",
-        "date_established": 2014,
-        "date_upgraded": "-",
+        "year_established": 2014,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "DRB-HICOM University of Automotive Malaysia",
-        "date_established": 2015,
-        "date_upgraded": "-",
+        "year_established": 2015,
+        "year_upgraded": "-",
         "state_id": 6,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Asia School of Business",
-        "date_established": 2015,
-        "date_upgraded": "-",
+        "year_established": 2015,
+        "year_upgraded": "-",
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "City University",
-        "date_established": 2010,
-        "date_upgraded": 2016,
+        "year_established": 2010,
+        "year_upgraded": 2016,
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Meritus University",
-        "date_established": 2016,
-        "date_upgraded": "-",
+        "year_established": 2016,
+        "year_upgraded": "-",
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Universiti Sultan Azlan Shah",
-        "date_established": 2012,
-        "date_upgraded": 2016,
+        "year_established": 2012,
+        "year_upgraded": 2016,
         "state_id": 8,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Universiti Islam Antarabangsa Sultan Abdul Halim Mu’adzam Shah",
-        "date_established": 2006,
-        "date_upgraded": 2018,
+        "year_established": 2006,
+        "year_upgraded": 2018,
         "state_id": 2,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Universiti Cyberjaya (University of Cyberjaya (UoC))",
-        "date_established": 2005,
-        "date_upgraded": 2019,
+        "year_established": 2005,
+        "year_upgraded": 2019,
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Universiti Islam Pahang Sultan Ahmad Shah (UnIPSAS)",
-        "date_established": 2005,
-        "date_upgraded": "-",
+        "year_established": 2005,
+        "year_upgraded": "-",
         "state_id": 6,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "Universiti Teknologi Sarawak (UTS)",
-        "date_established": 2003,
-        "date_upgraded": 2021,
+        "year_established": 2003,
+        "year_upgraded": 2021,
         "state_id": 13,
         "country_of_origin": "Malaysia",
         "type": "private"
     },
     {
         "name": "International University College of Technology Twintech (IUCTT)",
-        "date_established": "-",
-        "date_upgraded": 2013,
+        "year_established": "-",
+        "year_upgraded": 2013,
         "state_id": 12,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Kuala Lumpur Metropolitan University College (KLMUC)",
-        "date_established": "-",
-        "date_upgraded": 2007,
+        "year_established": "-",
+        "year_upgraded": 2007,
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "TATI University College",
-        "date_established": "-",
-        "date_upgraded": 2007,
+        "year_established": "-",
+        "year_upgraded": 2007,
         "state_id": 11,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Berjaya University College",
-        "date_established": 2007,
-        "date_upgraded": "-",
+        "year_established": 2007,
+        "year_upgraded": "-",
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Melaka Islamic University College",
-        "date_established": "-",
-        "date_upgraded": 2009,
+        "year_established": "-",
+        "year_upgraded": 2009,
         "state_id": 4,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Linton University College",
-        "date_established": "-",
-        "date_upgraded": 2010,
+        "year_established": "-",
+        "year_upgraded": 2010,
         "state_id": 5,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "UOW Malaysia KDU University College",
-        "date_established": "-",
-        "date_upgraded": 2010,
+        "year_established": "-",
+        "year_upgraded": 2010,
         "state_id": [
             7,
             10
@@ -640,64 +640,64 @@
     },
     {
         "name": "Widad University College",
-        "date_established": "-",
-        "date_upgraded": 2011,
+        "year_established": "-",
+        "year_upgraded": 2011,
         "state_id": 6,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "KPJ Healthcare University College",
-        "date_established": "-",
-        "date_upgraded": 2011,
+        "year_established": "-",
+        "year_upgraded": 2011,
         "state_id": 5,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Lincoln University College",
-        "date_established": "-",
-        "date_upgraded": 2011,
+        "year_established": "-",
+        "year_upgraded": 2011,
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Southern University College",
-        "date_established": "-",
-        "date_upgraded": 2012,
+        "year_established": "-",
+        "year_upgraded": 2012,
         "state_id": 1,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Bestari University College",
-        "date_established": 2012,
-        "date_upgraded": "-",
+        "year_established": 2012,
+        "year_upgraded": "-",
         "state_id": 11,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Veritas University College",
-        "date_established": 2013,
-        "date_upgraded": "-",
+        "year_established": 2013,
+        "year_upgraded": "-",
         "state_id": 7,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "University Technology Sarawak",
-        "date_established": 2013,
-        "date_upgraded": "-",
+        "year_established": 2013,
+        "year_upgraded": "-",
         "state_id": 13,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Tunku Abdul Rahman University College",
-        "date_established": "-",
-        "date_upgraded": 2013,
+        "year_established": "-",
+        "year_upgraded": 2013,
         "state_id": [
             1,
             6,
@@ -711,80 +711,80 @@
     },
     {
         "name": "Geomatika University College",
-        "date_established": "-",
-        "date_upgraded": 2013,
+        "year_established": "-",
+        "year_upgraded": 2013,
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Islamic Unversity College of Perlis (KUIPs)",
-        "date_established": 2014,
-        "date_upgraded": "-",
+        "year_established": 2014,
+        "year_upgraded": "-",
         "state_id": 9,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "University College Sabah Foundation (UCSF)",
-        "date_established": 2014,
-        "date_upgraded": "-",
+        "year_established": 2014,
+        "year_upgraded": "-",
         "state_id": 12,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Kolej Universiti Agrosains Malaysia",
-        "date_established": 2014,
-        "date_upgraded": "-",
+        "year_established": 2014,
+        "year_upgraded": "-",
         "state_id": 4,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Kolej Universiti Islam Pahang Sultan Ahmad Shah",
-        "date_established": 2015,
-        "date_upgraded": "-",
+        "year_established": 2015,
+        "year_upgraded": "-",
         "state_id": 6,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Kolej Universiti Poly-Tech MARA",
-        "date_established": "-",
-        "date_upgraded": 2015,
+        "year_established": "-",
+        "year_upgraded": 2015,
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "First City University College",
-        "date_established": "-",
-        "date_upgraded": 2015,
+        "year_established": "-",
+        "year_upgraded": 2015,
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "New Era University College",
-        "date_established": "-",
-        "date_upgraded": 2016,
+        "year_established": "-",
+        "year_upgraded": 2016,
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Fairview University College",
-        "date_established": 2017,
-        "date_upgraded": "-",
+        "year_established": 2017,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "International University College of Technology Twintech (IUCTT)",
-        "date_established": "-",
-        "date_upgraded": 2003,
+        "year_established": "-",
+        "year_upgraded": 2003,
         "state_id": [
             3,
             14
@@ -794,96 +794,96 @@
     },
     {
         "name": "Saito University College",
-        "date_established": "-",
-        "date_upgraded": 2017,
+        "year_established": "-",
+        "year_upgraded": 2017,
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Han Chiang University College of Communication",
-        "date_established": "-",
-        "date_upgraded": 2017,
+        "year_established": "-",
+        "year_upgraded": 2017,
         "state_id": 7,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Genovasi University College",
-        "date_established": 2017,
-        "date_upgraded": "-",
+        "year_established": 2017,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "PICOMS International University College",
-        "date_established": "-",
-        "date_upgraded": 2018,
+        "year_established": "-",
+        "year_upgraded": 2018,
         "state_id": 14,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "University College of Yayasan Pahang",
-        "date_established": "-",
-        "date_upgraded": 2018,
+        "year_established": "-",
+        "year_upgraded": 2018,
         "state_id": 6,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Kolej Universiti Islam Antarabangsa Selangor (KUIS)",
-        "date_established": 1995,
-        "date_upgraded": "-",
+        "year_established": 1995,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "i-CATS University College",
-        "date_established": "-",
-        "date_upgraded": 2020,
+        "year_established": "-",
+        "year_upgraded": 2020,
         "state_id": 13,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Netherlands Maritime University College (NMUC)",
-        "date_established": 2011,
-        "date_upgraded": 2021,
+        "year_established": 2011,
+        "year_upgraded": 2021,
         "state_id": 1,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Manipal University College Malaysia (MUCM)",
-        "date_established": 1997,
-        "date_upgraded": 2021,
+        "year_established": 1997,
+        "year_upgraded": 2021,
         "state_id": 4,
         "country_of_origin": "Malaysia",
         "type": "private colleges"
     },
     {
         "name": "Monash University Malaysia",
-        "date_established": 1998,
-        "date_upgraded": "-",
+        "year_established": 1998,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "Australia",
         "type": "foreign"
     },
     {
         "name": "Curtin University, Sarawak Malaysia",
-        "date_established": 1999,
-        "date_upgraded": "-",
+        "year_established": 1999,
+        "year_upgraded": "-",
         "state_id": 13,
         "country_of_origin": "Australia",
         "type": "foreign"
     },
     {
         "name": "University of Nottingham Malaysia Campus",
-        "date_established": 2000,
-        "date_upgraded": "-",
+        "year_established": 2000,
+        "year_upgraded": "-",
         "state_id": [
             10,
             14
@@ -893,56 +893,56 @@
     },
     {
         "name": "Swinburne University of Technology, Sarawak Campus",
-        "date_established": 2004,
-        "date_upgraded": "-",
+        "year_established": 2004,
+        "year_upgraded": "-",
         "state_id": 13,
         "country_of_origin": "Australia",
         "type": "foreign"
     },
     {
         "name": "Newcastle University Medicine Malaysia",
-        "date_established": 2007,
-        "date_upgraded": "-",
+        "year_established": 2007,
+        "year_upgraded": "-",
         "state_id": 1,
         "country_of_origin": "United Kingdom",
         "type": "foreign"
     },
     {
         "name": "University of Southampton Malaysia Campus",
-        "date_established": 2011,
-        "date_upgraded": "-",
+        "year_established": 2011,
+        "year_upgraded": "-",
         "state_id": 1,
         "country_of_origin": "United Kingdom",
         "type": "foreign"
     },
     {
         "name": "Heriot-Watt University Malaysia",
-        "date_established": 2012,
-        "date_upgraded": "-",
+        "year_established": 2012,
+        "year_upgraded": "-",
         "state_id": 16,
         "country_of_origin": "United Kingdom",
         "type": "foreign"
     },
     {
         "name": "University of Reading Malaysia",
-        "date_established": 2013,
-        "date_upgraded": "-",
+        "year_established": 2013,
+        "year_upgraded": "-",
         "state_id": 1,
         "country_of_origin": "United Kingdom",
         "type": "foreign"
     },
     {
         "name": "Xiamen University Malaysia Campus",
-        "date_established": 2015,
-        "date_upgraded": "-",
+        "year_established": 2015,
+        "year_upgraded": "-",
         "state_id": 10,
         "country_of_origin": "China",
         "type": "foreign"
     },
     {
         "name": "Royal College of Surgeons In Ireland And University College Dublin Malaysia Campus",
-        "date_established": 2018,
-        "date_upgraded": "-",
+        "year_established": 2018,
+        "year_upgraded": "-",
         "state_id": 7,
         "country_of_origin": "Ireland",
         "type": "foreign"
