@@ -35,6 +35,7 @@ The current base url is https://mazfreelance.github.io/malaysia-jajahan-api
 | bank                                              | /v1/bank.json                                           | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/bank.json)                                           |
 | user title                                        | /v1/user-title.json                                     | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/user-title.json)                                     |
 | religion                                          | /v1/religion.json                                       | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/religion.json)                                       |
+| university                                        | /v1/universities.json                                   | [Test](https://mazfreelance.github.io/malaysia-jajahan-api/v1/universities.json)                                   |
 
 ## Usage Example
 
