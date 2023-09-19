@@ -1,0 +1,732 @@
+[
+    {
+        "code": 148301,
+        "name": "Dewan Bandaraya Kuala lumpur",
+        "remarks": "-"
+    },
+    {
+        "code": 201301,
+        "name": "Majlis Bandaraya Johor Bahru",
+        "remarks": "-"
+    },
+    {
+        "code": 201302,
+        "name": "Majlis Bandaraya Iskandar Puteri",
+        "remarks": "Kod kekal, nama agensi berubah"
+    },
+    {
+        "code": 201303,
+        "name": "Majlis Perbandaran Kulai",
+        "remarks": "-"
+    },
+    {
+        "code": 201304,
+        "name": "Majlis Perbandaran Muar",
+        "remarks": "-"
+    },
+    {
+        "code": 201305,
+        "name": "Majlis Daerah Tangkak",
+        "remarks": "-"
+    },
+    {
+        "code": 201306,
+        "name": "Majlis Perbandaran Batu Pahat",
+        "remarks": "-"
+    },
+    {
+        "code": 201307,
+        "name": "Majlis Daerah Yong Peng",
+        "remarks": "-"
+    },
+    {
+        "code": 201308,
+        "name": "Majlis Daerah Segamat",
+        "remarks": "-"
+    },
+    {
+        "code": 201309,
+        "name": "Majlis Daerah Labis",
+        "remarks": "-"
+    },
+    {
+        "code": 201310,
+        "name": "Majlis Perbandaran Kluang",
+        "remarks": "-"
+    },
+    {
+        "code": 201311,
+        "name": "Majlis Daerah Simpang Renggam",
+        "remarks": "-"
+    },
+    {
+        "code": 201312,
+        "name": "Majlis Perbandaran Pontian",
+        "remarks": "Kod kekal, nama agensi berubah"
+    },
+    {
+        "code": 201313,
+        "name": "Majlis Daerah Kota Tinggi",
+        "remarks": "-"
+    },
+    {
+        "code": 201314,
+        "name": "Majlis Daerah Mersing",
+        "remarks": "-"
+    },
+    {
+        "code": 201315,
+        "name": "Majlis Bandaraya Pasir Gudang",
+        "remarks": "-"
+    },
+    {
+        "code": 201316,
+        "name": "Majlis Perbandarang Pengerang",
+        "remarks": "Kod baru dan agensi baru"
+    },
+    {
+        "code": 202301,
+        "name": "Majlis Bandaraya Alor Setar",
+        "remarks": "-"
+    },
+    {
+        "code": 202302,
+        "name": "Majlis Perbandaran Sungai Petani",
+        "remarks": "-"
+    },
+    {
+        "code": 202303,
+        "name": "Majlis Perbandaran Kulim",
+        "remarks": "-"
+    },
+    {
+        "code": 202304,
+        "name": "Majlis Daerah Baling",
+        "remarks": "-"
+    },
+    {
+        "code": 202305,
+        "name": "Majlis Daerah Kubang Pasu",
+        "remarks": "-"
+    },
+    {
+        "code": 202306,
+        "name": "Majlis Daerah Yan",
+        "remarks": "-"
+    },
+    {
+        "code": 202307,
+        "name": "Majlis Daerah Sik",
+        "remarks": "-"
+    },
+    {
+        "code": 202308,
+        "name": "Majlis Daerah Pendang",
+        "remarks": "-"
+    },
+    {
+        "code": 202309,
+        "name": "Majlis Daerah Padang Terap",
+        "remarks": "-"
+    },
+    {
+        "code": 202310,
+        "name": "Majlis Perbandaran Langkawi",
+        "remarks": "-"
+    },
+    {
+        "code": 202311,
+        "name": "Majlis Daerah Bandar Baharu",
+        "remarks": "-"
+    },
+    {
+        "code": 203301,
+        "name": "Majlis Perbandaran Kota Bharu",
+        "remarks": "Kod kekal, nama agensi berubah"
+    },
+    {
+        "code": 203302,
+        "name": "Majlis Daerah Bachok",
+        "remarks": "-"
+    },
+    {
+        "code": 203303,
+        "name": "Majlis Daerah Gua Musang",
+        "remarks": "-"
+    },
+    {
+        "code": 203304,
+        "name": "Majlis Daerah Jeli",
+        "remarks": "-"
+    },
+    {
+        "code": 203305,
+        "name": "Majlis Daerah Ketereh",
+        "remarks": "-"
+    },
+    {
+        "code": 203306,
+        "name": "Majlis Daerah Dabong",
+        "remarks": "-"
+    },
+    {
+        "code": 203307,
+        "name": "Majlis Daerah Kuala Krai",
+        "remarks": "-"
+    },
+    {
+        "code": 203308,
+        "name": "Majlis Daerah Machang",
+        "remarks": "-"
+    },
+    {
+        "code": 203309,
+        "name": "Majlis Daerah Pasir Mas",
+        "remarks": "-"
+    },
+    {
+        "code": 203310,
+        "name": "Majlis Daerah Pasir Puteh",
+        "remarks": "-"
+    },
+    {
+        "code": 203311,
+        "name": "Majlis Daerah Tanah Merah",
+        "remarks": "-"
+    },
+    {
+        "code": 203312,
+        "name": "Majlis Daerah Tumpat",
+        "remarks": "-"
+    },
+    {
+        "code": 204301,
+        "name": "Majlis Bandaraya Melaka Bersejarah",
+        "remarks": "Kod kekal, nama agensi berubah"
+    },
+    {
+        "code": 204302,
+        "name": "Majlis Perbandaran Alor Gajah",
+        "remarks": "-"
+    },
+    {
+        "code": 204303,
+        "name": "Majlis Perbandaran Jasin",
+        "remarks": "-"
+    },
+    {
+        "code": 204304,
+        "name": "Majlis Perbandaran Hang Tuah Jaya",
+        "remarks": "-"
+    },
+    {
+        "code": 205301,
+        "name": "Majlis Bandaraya Seremban",
+        "remarks": "-"
+    },
+    {
+        "code": 205303,
+        "name": "Majlis Daerah Kuala Pilah",
+        "remarks": "-"
+    },
+    {
+        "code": 205304,
+        "name": "Majlis Daerah Tampin",
+        "remarks": "-"
+    },
+    {
+        "code": 205305,
+        "name": "Majlis Perbandaran Port Dickson",
+        "remarks": "-"
+    },
+    {
+        "code": 205306,
+        "name": "Majlis Daerah Jelebu",
+        "remarks": "-"
+    },
+    {
+        "code": 205307,
+        "name": "Majlis Daerah Rembau",
+        "remarks": "-"
+    },
+    {
+        "code": 205308,
+        "name": "Majlis Daerah Jempol",
+        "remarks": "-"
+    },
+    {
+        "code": 206301,
+        "name": "Majlis Perbandaran Kuantan",
+        "remarks": "-"
+    },
+    {
+        "code": 206302,
+        "name": "Majlis Perbandaran Temerloh",
+        "remarks": "-"
+    },
+    {
+        "code": 206303,
+        "name": "Majlis Perbandaran Bentong",
+        "remarks": "-"
+    },
+    {
+        "code": 206304,
+        "name": "Majlis Daerah Pekan",
+        "remarks": "-"
+    },
+    {
+        "code": 206305,
+        "name": "Majlis Daerah Lipis",
+        "remarks": "-"
+    },
+    {
+        "code": 206306,
+        "name": "Majlis Daerah Cameron Highlands",
+        "remarks": "-"
+    },
+    {
+        "code": 206307,
+        "name": "Majlis Daerah Raub",
+        "remarks": "-"
+    },
+    {
+        "code": 206308,
+        "name": "Majlis Daerah Bera",
+        "remarks": "-"
+    },
+    {
+        "code": 206309,
+        "name": "Majlis Daerah Maran",
+        "remarks": "-"
+    },
+    {
+        "code": 206310,
+        "name": "Majlis Daerah Rompin",
+        "remarks": "-"
+    },
+    {
+        "code": 206311,
+        "name": "Majlis Daerah Jerantut",
+        "remarks": "-"
+    },
+    {
+        "code": 207301,
+        "name": "Majlis Bandaraya Pulau Pinang",
+        "remarks": "Kod kekal, nama agensi berubah"
+    },
+    {
+        "code": 207302,
+        "name": "Majlis Perbandaran Seberang Perai",
+        "remarks": "-"
+    },
+    {
+        "code": 208301,
+        "name": "Majlis Bandaraya Ipoh",
+        "remarks": "-"
+    },
+    {
+        "code": 208302,
+        "name": "Majlis Perbandaran Taiping",
+        "remarks": "-"
+    },
+    {
+        "code": 208303,
+        "name": "Majlis Perbandaran Manjung",
+        "remarks": "-"
+    },
+    {
+        "code": 208304,
+        "name": "Majlis Daerah Perak Tengah",
+        "remarks": "Kod kekal, nama agensi berubah"
+    },
+    {
+        "code": 208305,
+        "name": "Majlis Perbandaran Kuala Kangsar",
+        "remarks": "-"
+    },
+    {
+        "code": 208306,
+        "name": "Majlis Daerah Selama",
+        "remarks": "-"
+    },
+    {
+        "code": 208307,
+        "name": "Majlis Daerah Kinta Barat \/ Batu Gajah",
+        "remarks": "Kod kekal, nama agensi berubah"
+    },
+    {
+        "code": 208308,
+        "name": "Majlis Daerah Kinta Selatan \/ Kampar",
+        "remarks": "Kod kekal, nama agensi berubah"
+    },
+    {
+        "code": 208309,
+        "name": "Majlis Daerah Gerik",
+        "remarks": "-"
+    },
+    {
+        "code": 208310,
+        "name": "Majlis Daerah Lenggong",
+        "remarks": "-"
+    },
+    {
+        "code": 208311,
+        "name": "Majlis Daerah Pengkalan Hulu",
+        "remarks": "-"
+    },
+    {
+        "code": 208312,
+        "name": "Majlis Daerah Tapah",
+        "remarks": "-"
+    },
+    {
+        "code": 208313,
+        "name": "Majlis Daerah Tanjong Malim",
+        "remarks": "-"
+    },
+    {
+        "code": 208314,
+        "name": "Majlis Perbandaran Teluk Intan",
+        "remarks": "-"
+    },
+    {
+        "code": 208315,
+        "name": "Majlis Daerah Kerian",
+        "remarks": "-"
+    },
+    {
+        "code": 209301,
+        "name": "Majlis Perbandaran Kangar",
+        "remarks": "-"
+    },
+    {
+        "code": 210301,
+        "name": "Majlis Bandaraya Shah Alam",
+        "remarks": "-"
+    },
+    {
+        "code": 210302,
+        "name": "Majlis Bandaraya Petaling Jaya",
+        "remarks": "-"
+    },
+    {
+        "code": 210303,
+        "name": "Majlis Perbandaran Klang",
+        "remarks": "-"
+    },
+    {
+        "code": 210304,
+        "name": "Majlis Perbandaran Ampang Jaya",
+        "remarks": "-"
+    },
+    {
+        "code": 210305,
+        "name": "Majlis Bandaraya  Subang Jaya",
+        "remarks": "-"
+    },
+    {
+        "code": 210306,
+        "name": "Majlis Perbandaran Selayang",
+        "remarks": "-"
+    },
+    {
+        "code": 210307,
+        "name": "Majlis Perbandaran Kajang",
+        "remarks": "-"
+    },
+    {
+        "code": 210308,
+        "name": "Majlis Perbandaran Kuala Selangor",
+        "remarks": "-"
+    },
+    {
+        "code": 210309,
+        "name": "Majlis Perbandaran Kuala Langat",
+        "remarks": "-"
+    },
+    {
+        "code": 210310,
+        "name": "Majlis Perbandaran Hulu Selangor",
+        "remarks": "-"
+    },
+    {
+        "code": 210311,
+        "name": "Majlis Daerah Sabak Bernam",
+        "remarks": "-"
+    },
+    {
+        "code": 210313,
+        "name": "Majlis Perbandaran Sepang",
+        "remarks": "-"
+    },
+    {
+        "code": 211301,
+        "name": "Majlis Bandaraya Kuala Terengganu",
+        "remarks": "-"
+    },
+    {
+        "code": 211302,
+        "name": "Majlis Daerah Besut",
+        "remarks": "-"
+    },
+    {
+        "code": 211303,
+        "name": "Majlis Daerah Setiu",
+        "remarks": "-"
+    },
+    {
+        "code": 211304,
+        "name": "Majlis Perbandaran Dungun",
+        "remarks": "-"
+    },
+    {
+        "code": 211305,
+        "name": "Majlis Daerah Hulu Terengganu",
+        "remarks": "-"
+    },
+    {
+        "code": 211306,
+        "name": "Majlis Perbandaran Kemaman",
+        "remarks": "-"
+    },
+    {
+        "code": 211307,
+        "name": "Majlis Daerah Marang",
+        "remarks": "-"
+    },
+    {
+        "code": 366301,
+        "name": "Majlis Perbandaran Sandakan",
+        "remarks": "-"
+    },
+    {
+        "code": 366302,
+        "name": "Majlis Perbandaran Tawau",
+        "remarks": "-"
+    },
+    {
+        "code": 366303,
+        "name": "Lembaga Perbandaran Kudat",
+        "remarks": "Kod kekal, nama agensi berubah"
+    },
+    {
+        "code": 366304,
+        "name": "Majlis Daerah Beaufort",
+        "remarks": "-"
+    },
+    {
+        "code": 366305,
+        "name": "Majlis Daerah Beluran",
+        "remarks": "Kod kekal, nama agensi berubah"
+    },
+    {
+        "code": 366306,
+        "name": "Majlis Daerah Keningau",
+        "remarks": "-"
+    },
+    {
+        "code": 366307,
+        "name": "Majlis Daerah Kinabatangan",
+        "remarks": "-"
+    },
+    {
+        "code": 366308,
+        "name": "Majlis Daerah Kota Belud",
+        "remarks": "-"
+    },
+    {
+        "code": 366309,
+        "name": "Majlis Daerah Kota Marudu\/Pitas",
+        "remarks": "Kod kekal, nama agensi berubah"
+    },
+    {
+        "code": 366310,
+        "name": "Majlis Daerah Kuala Penyu",
+        "remarks": "-"
+    },
+    {
+        "code": 366311,
+        "name": "Majlis Daerah Kunak",
+        "remarks": "-"
+    },
+    {
+        "code": 366312,
+        "name": "Majlis Daerah Lahad Datu",
+        "remarks": "-"
+    },
+    {
+        "code": 366313,
+        "name": "Majlis Daerah Nabawan",
+        "remarks": "-"
+    },
+    {
+        "code": 366314,
+        "name": "Majlis Daerah Papar",
+        "remarks": "-"
+    },
+    {
+        "code": 366315,
+        "name": "Majlis Daerah Penampang",
+        "remarks": "-"
+    },
+    {
+        "code": 366316,
+        "name": "Majlis Daerah Ranau",
+        "remarks": "-"
+    },
+    {
+        "code": 366317,
+        "name": "Majlis Daerah Semporna",
+        "remarks": "-"
+    },
+    {
+        "code": 366318,
+        "name": "Majlis Daerah Sipitang",
+        "remarks": "-"
+    },
+    {
+        "code": 366319,
+        "name": "Majlis Daerah Tambunan",
+        "remarks": "-"
+    },
+    {
+        "code": 366320,
+        "name": "Majlis Daerah Tenom",
+        "remarks": "-"
+    },
+    {
+        "code": 366321,
+        "name": "Majlis Daerah Tuaran",
+        "remarks": "-"
+    },
+    {
+        "code": 366322,
+        "name": "Dewan Bandaraya Kota Kinabalu",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500301,
+        "name": "Majlis Bandaraya Kuching Selatan",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500302,
+        "name": "Majlis Perbandaran Padawan",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500303,
+        "name": "Majlis Perbandaran Sibu",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500304,
+        "name": "Majlis Bandaraya Miri",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500305,
+        "name": "Majlis Daerah Bau",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500306,
+        "name": "Majlis Daerah Betong",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500307,
+        "name": "Majlis Daerah Dalat dan Mukah",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500308,
+        "name": "Majlis Daerah Kanowit",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500309,
+        "name": "Majlis Daerah Kapit",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500310,
+        "name": "Majlis Daerah Lawas",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500311,
+        "name": "Majlis Daerah Limbang",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500312,
+        "name": "Majlis Daerah Lubok Antu",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500313,
+        "name": "Majlis Daerah Lundu",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500314,
+        "name": "Majlis Daerah Maradong dan Julau",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500315,
+        "name": "Majlis Daerah Marudi",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500316,
+        "name": "Majlis Daerah Matu dan Daro",
+        "remarks": "Kod dipinda, nama agensi dipinda"
+    },
+    {
+        "code": 500317,
+        "name": "Majlis Daerah Saratok",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500318,
+        "name": "Majlis Perbandaran Kota Samarahan",
+        "remarks": "Kod dipinda, nama agensi dipinda"
+    },
+    {
+        "code": 500319,
+        "name": "Majlis Daerah Serian",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500320,
+        "name": "Majlis Daerah Sarikei",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500321,
+        "name": "Majlis Daerah Simunjan",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500322,
+        "name": "Majlis Daerah Sri Aman",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500323,
+        "name": "Majlis Daerah Subis",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500324,
+        "name": "Majlis Daerah Luar Bandar Sibu",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    },
+    {
+        "code": 500325,
+        "name": "Dewan Bandaraya Kuching Utara",
+        "remarks": "Kod dipinda, nama agensi dikekalkan"
+    }
+]

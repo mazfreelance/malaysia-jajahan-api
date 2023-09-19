@@ -1,0 +1,242 @@
+[
+    {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+    },
+    {
+        "code": "ATS",
+        "name": "ATSCHILLING"
+    },
+    {
+        "code": "AUD",
+        "name": "AUDOLLAR"
+    },
+    {
+        "code": "BDT",
+        "name": "BDTAKA"
+    },
+    {
+        "code": "BEF",
+        "name": "BEFRANC"
+    },
+    {
+        "code": "BND",
+        "name": "BNDOLLAR"
+    },
+    {
+        "code": "BUK",
+        "name": "MMKYAT"
+    },
+    {
+        "code": "CAD",
+        "name": "CADOLLAR"
+    },
+    {
+        "code": "CHF",
+        "name": "CHSWISS FRANC"
+    },
+    {
+        "code": "CNY",
+        "name": "CNYUAN RENMIBI"
+    },
+    {
+        "code": "CSK",
+        "name": "CZECHOSLOVAKIA"
+    },
+    {
+        "code": "CZK",
+        "name": "CZECH REPUBLIC"
+    },
+    {
+        "code": "DEM",
+        "name": "DEDEUTSCHE MARK"
+    },
+    {
+        "code": "DKK",
+        "name": "DKKRONER"
+    },
+    {
+        "code": "ECU",
+        "name": "ECEUROPEAN COMMUDITY"
+    },
+    {
+        "code": "EEK",
+        "name": "ESTONIA"
+    },
+    {
+        "code": "ESP",
+        "name": "ESPESETA"
+    },
+    {
+        "code": "EUR",
+        "name": "EURO CURRENCY"
+    },
+    {
+        "code": "FIM",
+        "name": "FIMARKKA"
+    },
+    {
+        "code": "FRF",
+        "name": "FRFRANC"
+    },
+    {
+        "code": "GBP",
+        "name": "GBPOUND STERLING"
+    },
+    {
+        "code": "GPB",
+        "name": "GPPOUND STERLING"
+    },
+    {
+        "code": "HKD",
+        "name": "HKDOLLAR"
+    },
+    {
+        "code": "HRK",
+        "name": "HRCROATIA CURRENCY"
+    },
+    {
+        "code": "IDR",
+        "name": "IDRUPIAH"
+    },
+    {
+        "code": "IEP",
+        "name": "IEPOUND"
+    },
+    {
+        "code": "INR",
+        "name": "INRUPEE"
+    },
+    {
+        "code": "IRR",
+        "name": "IRRIAL"
+    },
+    {
+        "code": "ITL",
+        "name": "ITLIRA"
+    },
+    {
+        "code": "JOD",
+        "name": "JODINAR"
+    },
+    {
+        "code": "JPY",
+        "name": "JPYEN"
+    },
+    {
+        "code": "KES",
+        "name": "KESCHILLING"
+    },
+    {
+        "code": "KRW",
+        "name": "KRWON"
+    },
+    {
+        "code": "KWD",
+        "name": "KWDINAR"
+    },
+    {
+        "code": "KZT",
+        "name": "KZKAZAKHSTAN"
+    },
+    {
+        "code": "LAK",
+        "name": "LALAO PEOPLES DEMOCRATIC REPUBLIC OF"
+    },
+    {
+        "code": "LBP",
+        "name": "LBLUBNAN POUND"
+    },
+    {
+        "code": "LKR",
+        "name": "LKSRI LANKA"
+    },
+    {
+        "code": "LYD",
+        "name": "LYDNAR"
+    },
+    {
+        "code": "MMK",
+        "name": "MMMYANMAR CURRENCY"
+    },
+    {
+        "code": "MVR",
+        "name": "RUFIYAAMALDIVES"
+    },
+    {
+        "code": "MXN",
+        "name": "MEXICAN PESO"
+    },
+    {
+        "code": "MYR",
+        "name": "MYMALAYSIA RINGGIT"
+    },
+    {
+        "code": "NGN",
+        "name": "NGNAIRA"
+    },
+    {
+        "code": "NLG",
+        "name": "NLGUILDER"
+    },
+    {
+        "code": "NOK",
+        "name": "NOKRONER"
+    },
+    {
+        "code": "NZD",
+        "name": "NZDOLLAR"
+    },
+    {
+        "code": "PGK",
+        "name": "PGPAPUA NEW GUINEA"
+    },
+    {
+        "code": "PHP",
+        "name": "PHPESO"
+    },
+    {
+        "code": "PKR",
+        "name": "PKRUPEE"
+    },
+    {
+        "code": "PTG",
+        "name": "PTESCUDO"
+    },
+    {
+        "code": "QAR",
+        "name": "QATARI RIAL"
+    },
+    {
+        "code": "SAR",
+        "name": "SARIYAL"
+    },
+    {
+        "code": "SEK",
+        "name": "SEKRONER"
+    },
+    {
+        "code": "SGD",
+        "name": "SGDOLLAR"
+    },
+    {
+        "code": "THB",
+        "name": "THBAHT THAILAND"
+    },
+    {
+        "code": "TWD",
+        "name": " TWNEW TAIWAN DOLLAR"
+    },
+    {
+        "code": "USD",
+        "name": "USDOLLAR"
+    },
+    {
+        "code": "XEU",
+        "name": "EUROPEAN MONETARY COOP. FUND (EMCF)"
+    },
+    {
+        "code": "ZAR",
+        "name": "ZARAND"
+    }
+]
